@@ -1,4 +1,4 @@
-# Garrys-Mod-Cloud
+# Garrys Mod Cloud
 Dropbox for Garry's Mod.
 
 ## Long description
