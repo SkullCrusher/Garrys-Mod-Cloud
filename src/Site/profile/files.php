@@ -135,7 +135,7 @@
  
     <section class="section3">
      <footer>
-      <p>Copyright © 2014 - 20<?php echo date(y)?> DwarvenKnowledge LLC, All rights reserved.</p>
+      <p>Copyright © 2014 - 20<?php echo date(y)?> Company, All rights reserved.</p>
      </footer>
     </section>
   	<?php
@@ -152,7 +152,7 @@
  	  </section>
     <section class="section3">
      <footer>
-      <p>Copyright © 2014 - 20<?php echo date(y)?> DwarvenKnowledge LLC, All rights reserved.</p>
+      <p>Copyright © 2014 - 20<?php echo date(y)?> Company, All rights reserved.</p>
      </footer>
     </section>
   <?php
