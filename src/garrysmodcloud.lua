@@ -1,5 +1,3 @@
--- Copyright (C) Dwarven Knowledge LLC - All Rights Reserved
--- Unauthorized copying of this file, via any medium is strictly prohibited
 -- Written by SkullCrusher <garrysmodcloud@gmail.com>
 --
 
