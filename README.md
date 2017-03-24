@@ -20,3 +20,5 @@ This is literally the second web application I had ever built in my life. I came
 
 ## To install this
 I wrote this over two years ago so it's really fuzzy but it should be as simple as drag and drop the files onto apache and install the sql database. You need to set up the permissions so it can read and write to the file system also. To enable the lua, launch garrys mod and inside the console you can launch via a command or stick it into the auto run folder and restart.
+
+A better description lives here: https://github.com/SkullCrusher/Garrys-Mod-Cloud/issues/1
